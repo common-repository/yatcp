@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YATCP 0.6\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2007-09-09 21:14+0100\n"
+"Last-Translator: Joachim Praetorius <yatcp@organisiert.net>\n"
+"Language-Team: Sergey Biryukov <npocmop@gmail.com>, Joachim Praetorius <yatcp@organisiert.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+# template_functions.php:82
+msgid "Reply to:"
+msgstr "Antworten auf:"
+
+# template_functions.php:84
+msgid "Post"
+msgstr "Beitrag"
+
+# template_functions.php:114
+msgid "YATCP Options"
+msgstr "YATCP Einstellungen"
+
+# template_functions.php:131
+msgid " %s (%s at %s)"
+msgstr "%s (%s, %s)"
+
+# template_functions.php:131
+msgid "d.m.Y H:i"
+msgstr "d.m.Y H:i"
+
+# template_functions.php:251
+msgid "Comment"
+msgstr "Kommentar"
+
+# template_functions.php:254
+msgid "Trackback"
+msgstr "Trackback"
+
+# template_functions.php:257
+msgid "Pingback"
+msgstr "Pingback"
+
+# template_functions.php:269
+msgid "(Comments won't nest below this level)"
+msgstr "(Weitere Antworten werden nicht eingerückt)"
+
+# yatcp_options_page.php:67
+msgid "Comments nesting Level"
+msgstr "Maximale Verschachtelungstiefe für Kommentare"
+
+# yatcp_options_page.php:68
+msgid "Decide how deep comments should be nested. This equals to the number of lines shown on the left in the Default style. When the maximum depth is reached Comments are not shown indented anymore but just below each other (as it is Wordpress Standard). A warning <em>\"Comments won't nest below this level\"</em> is shown for Comments on the maximum level."
+msgstr "Legt fest, wie viele Ebenen von Kommentaren angezeigt werden. Die Anzahl der Ebenen entspricht den links vom Kommentar angezeigten Linien.<br/>Ist die maximale Verschachtelungstiefe erreicht, werden weitere Kommentare (wie standardmässig) untereinander angezeigt. Ein Hinweis <em>\"(Weitere Antworten werden nicht eingerückt)\"</em> wird für die entsprechenden Kommentare angezeigt."
+
+# yatcp_options_page.php:69
+msgid "Max. Comment nesting depth:"
+msgstr "Maximale angezeigte Verschachtelungstiefe für Kommentare"
+
+# yatcp_options_page.php:72
+msgid "Exclude Trackbacks/Pingbacks?"
+msgstr "Antworten auf Trackbacks/Pingbacks zulassen?"
+
+# yatcp_options_page.php:73
+msgid "Decide whether Trackbacks/Pingbacks should be shown in the comments dropdown to write a reply to them. Additionally when set to 'off' there willl also be no 'Reply' Link behind Trackbacks or Pingbacks."
+msgstr "Legt fest, ob Trackbacks/Pingbacks in der Auswahl der kommentierbaren Antworten erscheinen. Wenn die Option gewählt ist, wird hinter Trackbacks/Pingbacks zusätzlich kein 'Antworten' Link angezeigt."
+
+# yatcp_options_page.php:74
+msgid "Prohibit Answers to Trackbacks/Pingbacks:"
+msgstr "Anworten auf Trackbacks/Pingbacks verhindern:"
+
+# yatcp_options_page:77
+msgid "Hide Trackbacks/Pingbacks?"
+msgstr "Trackbacks/Pingbacks verbergen?"
+
+# yatcp_options_page:78
+msgid "Decide whether Trackbacks/Pingbacks should be completly hidden, i.e. not even show up in the Comments List at all. This implies the behaviour described by 'Exclude Trackbacks', so Trackbacks/Pingbacks won't be shown in the Reply Drowdown. <em>Please note that this also influences the number of comments shown everywhere!</em>"
+msgstr "Legt fest, ob Trackbacks/Pingbacks angezeigt werden, oder nicht. Wird die Option gewählt, so werden Trackbacks/Pingbacks nicht mehr in der Liste der Kommentare aufgeführt. Ausserdem wird die angezeigte Zahl der Kommentare entsprechend angepasst."
+
+# yatcp_options_page:79
+msgid "Completely hide Trackbacks/Pingbacks:"
+msgstr "Trackbacks/Pingbacks <em>nicht</em> anzeigen:"
+
+# yatcp_options_page:82
+msgid "Verbose nesting warning?"
+msgstr "Anzeige des Warnhinweises"
+
+# yatcp_options_page:83
+msgid "Decide whether the warning <em>\"Comments won't nest below this level\"</em> is shown for <em>every</em> comment nested too deep, or only for the ones reaching maximum nesting depth."
+msgstr "Legt fest, ob der Hinweis <em>\"Weitere Antworten werden nicht eingerückt\"</em> für <em>jeden</em> Kommentar angezeigt werden soll, der zu tief geschachtelt ist, oder nur für die Kommentare, die die maximale Verschachtelungstiefe haben."
+
+# yatcp_options_page:85
+msgid "Show warning for every Comment above maximum nesting depth"
+msgstr "Warnhinweis für alle Kommentare anzeigen, die über der maximalen Verschachtelungstiefe liegen."
+
+# yatcp_options_page:87
+msgid "Show warning only for Comments on maximum nesting depth"
+msgstr "Warnhinweis nur für die Kommentare zeigen, die die maximale Tiefe erreicht haben."
+
+# yatcp_comments.php:45
+msgid "Logged in as"
+msgstr "Angemeldet als"
+
+# yatcp_comments.php:51
+msgid "(not displayed)"
+msgstr "(wird nicht angezeigt)"
+
+# yatcp_single-comment.php:31
+msgid "%s on %s at %s"
+msgstr "%s am %s um %s"
+
+# yatcp_single-comment.php:31
+msgid "d.m.Y"
+msgstr "d.m.Y"
+
+# yatcp_single-comment.php:31
+msgid "H:i"
+msgstr "H:i"
+
+# yatcp_single-comment.php:33
+msgid "Reply"
+msgstr "Antworten"
+
+# yatcp_single-comment.php:40
+msgid "Your comment is awaiting moderation."
+msgstr "Der Kommentar ist noch nicht freigegeben worden."
+
+# yatcp_single-comment.php:68
+msgid "Comments are closed."
+msgstr "Keine Kommentare möglich."
+

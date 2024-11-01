@@ -1,0 +1,135 @@
+# translation of yatcp-hu_HU.po to Hungarian
+# Szőts Ákos <szotsaki@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: yatcp-hu_HU\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2008-01-19 16:55+0100\n"
+"Last-Translator: Szőts Ákos <szotsaki@gmail.com>\n"
+"Language-Team: Hungarian <hu@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
+
+# template_functions.php:82
+msgid "Reply to:"
+msgstr "Válasz:"
+
+# template_functions.php:84
+msgid "Post"
+msgstr "Elküldés"
+
+# template_functions.php:114
+msgid "YATCP Options"
+msgstr "YATCP beállítások"
+
+# template_functions.php:131
+msgid " %s (%s at %s)"
+msgstr " %s (%s írta ekkor: %s)"
+
+# template_functions.php:131
+msgid "d.m.Y H:i"
+msgstr "Y. m. j. H:i"
+
+# template_functions.php:251
+msgid "Comment"
+msgstr "Hozzászólás"
+
+# template_functions.php:254
+msgid "Trackback"
+msgstr "Trackback"
+
+# template_functions.php:257
+msgid "Pingback"
+msgstr "Pingback"
+
+# template_functions.php:269
+msgid "(Comments won't nest below this level)"
+msgstr "(A hozzászólások e szint alatt már nem rendeződnek szálba)"
+
+# yatcp_options_page.php:67
+msgid "Comments nesting Level"
+msgstr "Hozzászólások szálbarendezési szintje"
+
+# yatcp_options_page.php:68
+msgid "Decide how deep comments should be nested. This equals to the number of lines shown on the left in the Default style. When the maximum depth is reached Comments are not shown indented anymore but just below each other (as it is Wordpress Standard). A warning <em>\"Comments won't nest below this level\"</em> is shown for Comments on the maximum level."
+msgstr "Itt döntheted el, milyen mélységben legyenek a hozzászólások szálba rendezve. Ez egyenlő az alapértelmezett stílusnál a bal oldalt megjelenő sorok számával. Ha a a hozzászólások elérik a maximum szintet, már nem rendeződnek szálba, hanem egymás alá kerülnek (mivel ez a WordPress alapértelmezése). <em>\"A hozzászólások e szint alatt már nem rendeződnek szálba\"</em> figyelmezetetés jelenik meg ekkor."
+
+# yatcp_options_page.php:69
+msgid "Max. Comment nesting depth:"
+msgstr "Maximum hozzászólás mélység:"
+
+# yatcp_options_page.php:72
+msgid "Exclude Trackbacks/Pingbacks?"
+msgstr "Kizárod a trackbackeket/pingbackeket?"
+
+# yatcp_options_page.php:73
+msgid "Decide whether Trackbacks/Pingbacks should be shown in the comments dropdown to write a reply to them. Additionally when set to 'off' there willl also be no 'Reply' Link behind Trackbacks or Pingbacks."
+msgstr "Itt döntheted el, hogy a trackbackek/pingbackek megjelenjenek-e a hozzászólás mezője alatti legördülő mezőben, így téve lehetővé, hogy válaszoljanak rá. Ezenkívül, kikapcsolt állapotban eltünteti a 'Válasz' gombot a trackbackek/pingbackek után."
+
+# yatcp_options_page.php:74
+msgid "Prohibit Answers to Trackbacks/Pingbacks:"
+msgstr "Engedélyezze a válaszokat a trackbackekre/pingbackekre:"
+
+# yatcp_options_page:77
+msgid "Hide Trackbacks/Pingbacks?"
+msgstr "Elrejted a trackbackeket/pingbackeket?"
+
+# yatcp_options_page:78
+msgid "Decide whether Trackbacks/Pingbacks should be completly hidden, i.e. not even show up in the Comments List at all. This implies the behaviour described by 'Exclude Trackbacks', so Trackbacks/Pingbacks won't be shown in the Reply Drowdown. <em>Please note that this also influences the number of comments shown everywhere!</em>"
+msgstr "Itt döntheted el, hogy teljesen elrejted-e a trackbackeket/pingbackeket még a hozzászólás listáról is. Ez azzal is jár természetesen, hogy válaszolni sem lehet rájuk. <em>Figyelj arra, hogy ez mindenhol befolyásolja a hozzászólások számát!</em>"
+
+# yatcp_options_page:79
+msgid "Completely hide Trackbacks/Pingbacks:"
+msgstr "Teljesen rejtse el a trackbackeket/pingbackeket:"
+
+# yatcp_options_page:82
+msgid "Verbose nesting warning?"
+msgstr "Részletes szál-figyelmeztetés?"
+
+# yatcp_options_page:83
+msgid "Decide whether the warning <em>\"Comments won't nest below this level\"</em> is shown for <em>every</em> comment nested too deep, or only for the ones reaching maximum nesting depth."
+msgstr "Itt döntheted el, hogy <em>\"A hozzászólások e szint alatt már nem rendeződnek szálba\"</em> figyelmeztetés minden túl mély hozzászólás után megjelenjen, vagy csak az első után, amelyik elérte a maximum szintet."
+
+# yatcp_options_page:85
+msgid "Show warning for every Comment above maximum nesting depth"
+msgstr "Figyelmeztetés megjelenítése minden hozzászólásnál, amelyik túllépte a maximális szál mélységet"
+
+# yatcp_options_page:87
+msgid "Show warning only for Comments on maximum nesting depth"
+msgstr "Figyelmeztetés megjelenítése csak azoknál a hozzászólásoknál, amelyek a maximális szál mélységén vannak"
+
+# yatcp_comments.php:45
+msgid "Logged in as"
+msgstr "Bejelentkezve, mint"
+
+# yatcp_comments.php:51
+msgid "(not displayed)"
+msgstr "(nem megjelenített)"
+
+# yatcp_single-comment.php:31
+msgid "%s on %s at %s"
+msgstr "%s írta, ekkor: %s %s"
+
+# yatcp_single-comment.php:31
+msgid "d.m.Y"
+msgstr "Y. m. j."
+
+# yatcp_single-comment.php:31
+msgid "H:i"
+msgstr "H:i"
+
+# yatcp_single-comment.php:33
+msgid "Reply"
+msgstr "Válasz"
+
+# yatcp_single-comment.php:40
+msgid "Your comment is awaiting moderation."
+msgstr "A hozzászólásod moderációra vár"
+
+# yatcp_single-comment.php:68
+msgid "Comments are closed."
+msgstr "A hozzászólási lehetőség szünetel"
+
